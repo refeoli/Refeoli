@@ -1,7 +1,8 @@
 ### Olá, eu sou o Renato!
 
 - 🔭 Atualmente sou Consultor de vendas em transição de carreira.
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
+- 📚 Estudando inglês 
 - 💬 Tudo que estou fazendo aqui faz parte de um processo de aprendizagem constante.
 - 📫 contate-me no e-mail : refeoli1@yahoo.com.br
 
